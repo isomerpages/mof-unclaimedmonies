@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: About Us
+    url: /about-us/
+  - title: Ministries
+    url: /ministries/
+  - title: Organs Of State
+    url: /organs-of-state/
+  - title: Statutory Boards
+    url: /statutory-boards/
+  - title: Categories
+    url: /categories/
